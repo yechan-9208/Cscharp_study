@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZaF8OkzyYQAap+1fQHeGukgFbxIGDbX+2A6LmbjgsnXTZ+mjd2Mjb9YfLUdMteSxl4L6g2iV3NbRx2O9t7P3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnjsd\\OneDrive\\바탕 화면\\이것이 c#이다\\csharp_study\\예제문제\\chapter03\\IntegralTypes\\IntegralTypes\\IntegralTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnjsd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

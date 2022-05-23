@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZDjPuk4gqApjd0gXhShZ3pUu6Xga4Xv5QY2cx8Pr8RaFa1pLXOuOqWZu6/iAE1zvCXF8RzpDdoiO63GM1QCOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnjsd\\OneDrive\\바탕 화면\\이것이 c#이다\\csharp_study\\예제문제\\chapter03\\IntegralTypes\\SignedUnsigned\\SignedUnsigned.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnjsd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
