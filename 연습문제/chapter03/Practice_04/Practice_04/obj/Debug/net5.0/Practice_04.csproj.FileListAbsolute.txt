@@ -1,0 +1,16 @@
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\bin\Debug\net5.0\Practice_04.exe
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\bin\Debug\net5.0\Practice_04.deps.json
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\bin\Debug\net5.0\Practice_04.runtimeconfig.json
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\bin\Debug\net5.0\Practice_04.runtimeconfig.dev.json
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\bin\Debug\net5.0\Practice_04.dll
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\bin\Debug\net5.0\Practice_04.pdb
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.csproj.AssemblyReference.cache
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.AssemblyInfoInputs.cache
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.AssemblyInfo.cs
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.csproj.CoreCompileInputs.cache
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.dll
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\refint\Practice_04.dll
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.pdb
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\Practice_04.genruntimeconfig.cache
+C:\Users\dnjsd\OneDrive\바탕 화면\이것이 c#이다\csharp_study\연습문제\chapter03\Practice_04\Practice_04\obj\Debug\net5.0\ref\Practice_04.dll

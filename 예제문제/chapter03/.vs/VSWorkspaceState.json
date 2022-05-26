@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\IntegralTypes",
+    "\\Practice_03",
+    "\\Practice_03\\Practice_03"
   ],
+  "SelectedNode": "\\Practice_03\\Practice_03\\Enum.cs",
   "PreviewInSolutionExplorer": false
 }
