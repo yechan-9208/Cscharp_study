@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhPbtI03RKGUTvnU9Tn/LkPDL39VjrW6/aQvUQ3BqCSc7A3v3Tz7Zn8yWbwMRQI+xf5q8wnV22cjLlRhKH4UTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnjsd\\OneDrive\\바탕 화면\\이것이 c#이다\\csharp_study\\연습문제\\chapter03\\problem1\\problem1\\problems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnjsd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
